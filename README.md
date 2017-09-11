@@ -14,3 +14,5 @@ $ pip install Flask
 Para correr la aplicacion
 $ FLASK_APP=core/app.py flask run
 
+
+
