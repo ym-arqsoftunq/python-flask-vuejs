@@ -1,0 +1,14 @@
+{
+  "name": "python-flask-vuejs",
+  "description": "a really cool app",
+  "version": "0.0.1",
+  "engines": {
+    "node": "8.4.0"
+  },
+  "dependencies": {
+    "bower": "v1.8.0"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}

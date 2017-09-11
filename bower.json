@@ -1,0 +1,19 @@
+{
+  "name": "python-flask-vuejs",
+  "homepage": "https://github.com/ym-arqsoftunq/python-flask-vuejs",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "vue": "^2.4.2"
+  }
+}
